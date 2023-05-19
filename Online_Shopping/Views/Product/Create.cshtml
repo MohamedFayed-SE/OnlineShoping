@@ -1,0 +1,86 @@
+﻿@model Online_Shopping.DTOs.ProductDTo
+@inject BLL.Interfaces.IUniteOfWork UniteOfWork;
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>ProductDTo</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Id" class="control-label"></label>
+                <input asp-for="Id" class="form-control" />
+                <span asp-validation-for="Id" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LocalName" class="control-label"></label>
+                <input asp-for="LocalName" class="form-control" />
+                <span asp-validation-for="LocalName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LatinName" class="control-label"></label>
+                <input asp-for="LatinName" class="form-control" />
+                <span asp-validation-for="LatinName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+          
+            <div class="form-group">
+                <label asp-for="Imge" class="control-label"></label>
+                <input type="file" asp-for="Imge"  class="form-control" />
+                <span asp-validation-for="ImgeName" class="text-danger"></span>
+            </div>
+           
+                <div class="form-group">
+                    <label class="control-label">Choose Category</label>
+                <select class="form-control" id="categoryId" asp-for="CategoryId">
+                        <option value="null">Select</option>
+                        @foreach (var item in await UniteOfWork.Categories.GetAllAsync())
+                        {
+                            <option value="@item.Id"> @item.Name</option>
+                        }
+                    </select>
+
+                </div>
+
+
+          
+                <div class="form-group">
+                    <label  class="control-label">Choose SubCategory</label>
+                    <select class="form-control" asp-for="SubCategoryId" id="subCategoryId" disabled>
+
+                    <option value="NULL">Make Sure Select Country First</option>
+
+                    </select>
+                </div>
+          
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="HasAvailableStock" /> @Html.DisplayNameFor(model => model.HasAvailableStock)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    <script src="~/js/Forms.js"></script>
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+
+   
+}

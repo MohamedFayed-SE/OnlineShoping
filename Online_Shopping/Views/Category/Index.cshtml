@@ -1,0 +1,30 @@
+﻿
+@model IEnumerable<Online_Shopping.DTOs.CategoryDTo>;
+
+
+<h1>Category</h1>
+<hr>
+<a asp-action="Create" class="btn btn-info px-4 mb-2">Create</a>
+<div class="col-md-12 bg-white border shadow-lg p-2">
+    <table class="table table-bordered table-striped table-hover">
+        <thead>
+            <tr>
+                <th scope="col"># ID</th>
+                <th scope="col">Name</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <th scope="row">@item.Id</th>
+                    <td>@item.Name</td>
+
+
+                </tr>
+            }
+
+        </tbody>
+
+</div>
