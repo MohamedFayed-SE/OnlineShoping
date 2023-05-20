@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sBL+LZWQqBPmNugdNTOFb0ZT6FhlPGKcc8//INOhxFM=",
+  "Hash": "pM+I0i7T5IxgTLu1riMZD6bVNt+lpWM6EkbSQaIh41w=",
   "Source": "Online_Shopping",
   "BasePath": "_content/Online_Shopping",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Online_Shopping\\wwwroot",
       "Source": "Online_Shopping",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Online_Shopping.styles.css",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Online_Shopping.styles.css",
       "SourceId": "Online_Shopping",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "Online_Shopping.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Online_Shopping.styles.css"
+      "OriginalItemSpec": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Online_Shopping.styles.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Online_Shopping.bundle.scp.css",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Online_Shopping.bundle.scp.css",
       "SourceId": "Online_Shopping",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "Online_Shopping.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,30 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Online_Shopping.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Online_Shopping.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\css\\LogIn.css",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
+      "BasePath": "_content/Online_Shopping",
+      "RelativePath": "css/LogIn.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\LogIn.css"
+    },
+    {
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\css\\site.css",
+      "SourceId": "Online_Shopping",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\favicon.ico",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\imges\\.jpg",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\imges\\.jpg",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "imges/.jpg",
       "AssetKind": "All",
@@ -102,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\imges\\.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\imges\\.png",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\imges\\.png",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "imges/.png",
       "AssetKind": "All",
@@ -119,10 +136,44 @@
       "OriginalItemSpec": "wwwroot\\imges\\.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\imges\\download.png.png",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\imges\\download (1).jpg.jpg",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
+      "BasePath": "_content/Online_Shopping",
+      "RelativePath": "imges/download (1).jpg.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imges\\download (1).jpg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\imges\\download.jpg.jpg",
+      "SourceId": "Online_Shopping",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
+      "BasePath": "_content/Online_Shopping",
+      "RelativePath": "imges/download.jpg.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imges\\download.jpg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\imges\\download.png.png",
+      "SourceId": "Online_Shopping",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "imges/download.png.png",
       "AssetKind": "All",
@@ -136,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\imges\\download.png.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\imges\\Personal_ID_n.jpg.jpg",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\imges\\Personal_ID_n.jpg.jpg",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "imges/Personal_ID_n.jpg.jpg",
       "AssetKind": "All",
@@ -153,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\imges\\Personal_ID_n.jpg.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\imges\\WhatsApp Image 2023-03-08 at 19.26.26.jpg.jpg",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\imges\\WhatsApp Image 2023-03-08 at 19.26.26.jpg.jpg",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "imges/WhatsApp Image 2023-03-08 at 19.26.26.jpg.jpg",
       "AssetKind": "All",
@@ -170,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\imges\\WhatsApp Image 2023-03-08 at 19.26.26.jpg.jpg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\js\\Forms.js",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\js\\Forms.js",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "js/Forms.js",
       "AssetKind": "All",
@@ -187,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Forms.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\js\\site.js",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -204,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\js\\TablesActions.js",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\js\\TablesActions.js",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "js/TablesActions.js",
       "AssetKind": "All",
@@ -221,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\js\\TablesActions.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -238,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -255,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -272,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -289,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -306,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -323,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -340,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -357,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -374,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -391,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -408,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -425,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -442,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -459,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -476,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -493,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -510,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -527,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -544,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -561,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -578,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -595,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -612,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -629,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -646,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -663,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -680,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -697,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -714,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -731,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -748,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -765,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -782,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -799,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -816,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -833,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -850,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -867,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -884,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -901,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -918,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -935,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -952,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -969,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -986,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1003,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1020,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1037,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1054,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1071,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1088,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1105,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1122,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1139,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1156,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1173,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Online_Shopping",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\Online_Shopping\\Online_Shopping\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
       "BasePath": "_content/Online_Shopping",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

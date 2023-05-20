@@ -1,0 +1,41 @@
+﻿﻿
+@{
+    Layout = null;
+}
+@model Online_Shopping.DTOs.LogInDto;
+<!DOCTYPE html>
+<!-- Coding By CodingNepal - codingnepalweb.com -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Login Form</title>
+    <!---Custom CSS File--->
+    <link rel="stylesheet" href="~/css/LogIn.css" />
+
+</head>
+<body>
+
+    <div class="container">
+        <input type="checkbox" id="check">
+        <div class="login form px-3">
+            <center><h1>Login</h1></center>
+          
+            <form asp-action="LogIn">
+                <div asp-validation-summary="All" style="color:red"></div>
+                <input type="text" placeholder="Enter your UserName" asp-for="UserName" class="m-auto">
+                <span asp-validation-for="UserName" style="color:red"></span>
+                <input type="password" placeholder="Enter your password" asp-for="Password">
+                <span asp-validation-for="Password" style="color:red"></span>
+                @*<a href="#">Forgot password?</a>*@
+                <button class="btn">LogIn</button>
+            </form>
+            
+        </div>
+       
+    <script src="~/vendor/jquery/jquery.min.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+</body>
+</html>

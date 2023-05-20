@@ -10,17 +10,19 @@ namespace Online_Shopping.DTOs
         public int? Id { get; set; }
         [MaxLength(150),Required,RegularExpression(@"^([\u0621-\u064A\s\p{N}]{2,})[ |\u0621-\u064A\s\p{N}]{0,}$",ErrorMessage = "PLease Enter Only Arabic characters")]
         public string LocalName { get; set; }
-        [MaxLength(300),Required,RegularExpression(@"^[a-zA-Z]+$",ErrorMessage = "Please Enter Only  English characters")]
+        [MaxLength(300),Required,RegularExpression(@"^([a-z|A-Z]{2,})[ |A-z|a-z]{0,}$", ErrorMessage = "Please Enter Only  English characters")]
         public string LatinName { get; set; }
         [MaxLength(300),Required]
         public string Description { get; set; }
+        
         public string? ImgeName { get; set; }
-        [NotMapped]
+        [Required]
         public IFormFile? Imge { get; set; }
         [Required]
         public byte CategoryId { get; set; }
+      
         public Category? Category { get; set; }
-        
+        [Required]
         public byte? SubCategoryId { get; set; }
         
         public SubCategoryDTo? SubCategory { get; set; }

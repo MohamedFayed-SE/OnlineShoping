@@ -2,7 +2,7 @@
 
 @model IEnumerable<Online_Shopping.DTOs.ProductDTo>;
 
-<h1>Category</h1>
+<h1>Products</h1>
 <hr>
 <a asp-action="Create" class="btn btn-info px-4 mb-2">Create</a>
 <div class="col-md-12 bg-white border shadow-lg p-2">
@@ -42,7 +42,7 @@
 
 </div>
 
- <div>
+ <div class="my-2">
     <button class="btn btn-outline-success" onclick="NextPage(@ViewBag.listCount)">Next</button>
     <button class="btn btn-outline-info" onclick="PreviousPage()">Previous</button>
  </div>

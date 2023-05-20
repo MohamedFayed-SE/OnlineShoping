@@ -12,3 +12,17 @@ C:\Users\HP\Desktop\Online_Shopping\BAL\obj\Debug\net6.0\refint\BAL.dll
 C:\Users\HP\Desktop\Online_Shopping\BAL\obj\Debug\net6.0\BAL.pdb
 C:\Users\HP\Desktop\Online_Shopping\BAL\obj\Debug\net6.0\BAL.genruntimeconfig.cache
 C:\Users\HP\Desktop\Online_Shopping\BAL\obj\Debug\net6.0\ref\BAL.dll
+C:\Users\mohamed.fayed\Desktop\OnlineShoping\BAL\bin\Debug\net6.0\BAL.deps.json
+C:\Users\mohamed.fayed\Desktop\OnlineShoping\BAL\bin\Debug\net6.0\BAL.runtimeconfig.json
+C:\Users\mohamed.fayed\Desktop\OnlineShoping\BAL\bin\Debug\net6.0\BAL.dll
+C:\Users\mohamed.fayed\Desktop\OnlineShoping\BAL\bin\Debug\net6.0\BAL.pdb
+C:\Users\mohamed.fayed\Desktop\OnlineShoping\BAL\obj\Debug\net6.0\BAL.csproj.AssemblyReference.cache
+C:\Users\mohamed.fayed\Desktop\OnlineShoping\BAL\obj\Debug\net6.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohamed.fayed\Desktop\OnlineShoping\BAL\obj\Debug\net6.0\BAL.AssemblyInfoInputs.cache
+C:\Users\mohamed.fayed\Desktop\OnlineShoping\BAL\obj\Debug\net6.0\BAL.AssemblyInfo.cs
+C:\Users\mohamed.fayed\Desktop\OnlineShoping\BAL\obj\Debug\net6.0\BAL.csproj.CoreCompileInputs.cache
+C:\Users\mohamed.fayed\Desktop\OnlineShoping\BAL\obj\Debug\net6.0\BAL.dll
+C:\Users\mohamed.fayed\Desktop\OnlineShoping\BAL\obj\Debug\net6.0\refint\BAL.dll
+C:\Users\mohamed.fayed\Desktop\OnlineShoping\BAL\obj\Debug\net6.0\BAL.pdb
+C:\Users\mohamed.fayed\Desktop\OnlineShoping\BAL\obj\Debug\net6.0\BAL.genruntimeconfig.cache
+C:\Users\mohamed.fayed\Desktop\OnlineShoping\BAL\obj\Debug\net6.0\ref\BAL.dll

@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using BAL.Models;
 using BLL.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Online_Shopping.DTOs;
@@ -8,6 +9,7 @@ using Online_Shopping.DTOs;
 */
 namespace Online_Shopping.Controllers
 {
+    [Authorize]
     public class ProductController : Controller
     {
         private readonly IUniteOfWork _uniteOfWork;
@@ -27,7 +29,7 @@ namespace Online_Shopping.Controllers
             };
             ViewBag.listCount = _uniteOfWork.Products.GetCount();
 
-            var products =  _uniteOfWork.Products.GetPage(0,1, includesList);
+            var products =  _uniteOfWork.Products.GetPage(0,10, includesList);
             
             var result = _mapper.Map<IEnumerable<ProductDTo>>(products);
             return View(result);

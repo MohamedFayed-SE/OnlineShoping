@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using BAL.Models;
 using BLL.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Online_Shopping.DTOs;
@@ -8,6 +9,7 @@ using System.Linq.Expressions;
 
 namespace Online_Shopping.Controllers
 {
+    [Authorize]
     public class SubCategoryController : Controller
     {
         private readonly IUniteOfWork _uniteOfWork;

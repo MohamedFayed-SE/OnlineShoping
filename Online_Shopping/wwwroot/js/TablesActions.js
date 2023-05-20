@@ -1,18 +1,26 @@
-﻿let pagenumber = 2;
-let prevNumber = pagenumber-1;
+﻿let pagenumber = 1;
+
+/* can make next and prev function  dynamic and pass pramter
+  tableId,url,list count,htmlbody if we will use it in more than screen
+ */
+
 function NextPage(listCount) {
 
    
-    console.log(pagenumber, listCount);
-     prevNumber = pagenumber - 1;
-    console.log(pagenumber * 1 > listCount);
-    if (pagenumber * 1 > listCount)
+
+    pagenumber++;
+    
+    if (pagenumber * 10 > listCount) {
+        pagenumber = Math.ceil(listCount / 10);
         return;
+
+    }
+        
     $("#TableBody").empty();
     $.ajax({
         type: "GET",
         url: `/Product/Pagination`,
-        data: { PageNumber: pagenumber, PageSize: 1 },
+        data: { PageNumber: pagenumber, PageSize: 10 },
         success: function (res) {
             console.log(res);
             res.forEach(item => {
@@ -20,7 +28,7 @@ function NextPage(listCount) {
 
 
                                      <tr>
-                                    <td scope="row">${item.id}</td>
+                                    <th scope="row">${item.id}</th>
                                     <td>${item.localName}</td>
                                     <td>${item.latinName}</td>
                                        <td>
@@ -44,12 +52,17 @@ function NextPage(listCount) {
         }
 
     });
-    pagenumber++;
+    
 };
 function PreviousPage() {
-    console.log(prevNumber, "Prev");
-    if (prevNumber <= 0)
+
+    pagenumber--;
+    if (pagenumber <= 0) {
+        pagenumber = 1;
         return;
+    }
+
+   
 
     
          
@@ -58,13 +71,13 @@ function PreviousPage() {
     $.ajax({
         type: "GET",
         url: `/Product/Pagination`,
-        data: { PageNumber: prevNumber, PageSize: 1 },
+        data: { PageNumber: pagenumber, PageSize: 10 },
         success: function (res) {
             console.log(res,"Prev");
             res.forEach(item => {
                 $("#TableBody").append(`
                     <tr>
-                                    <td scope="row">${item.id}</td>
+                                    <th scope="row">${item.id}</th>
                                     <td>${item.localName}</td>
                                     <td>${item.latinName}</td>
                                        <td>
@@ -88,6 +101,6 @@ function PreviousPage() {
         }
 
     });
-    if (prevNumber>1)
-        pagenumber--;
+    
+       
 };
