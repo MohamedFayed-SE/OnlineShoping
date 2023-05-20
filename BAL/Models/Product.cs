@@ -7,6 +7,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/*
+ there is Two Way to make the relation between Product And product category based on 
+Business  need if sub catgeory can have children then we will make slef join
+instead of sperate it in another table  and will make the realtion between  product and 
+category 
+
+
+ */
+
 namespace BAL.Models
 {
     public class Product

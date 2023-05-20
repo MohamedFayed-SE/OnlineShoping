@@ -13,8 +13,10 @@
                 <th scope="col">Arabic Name</th>
                 <th scope="col">Latin Name</th>
                 <th scope="col">Imge</th>
+                <th scope="col">Description</th>
                 <th scope="col">Category Name</th>
                 <th scope="col">SubCategory Name</th>
+                <th scope="col">Has Available Stock</th>
 
             </tr>
         </thead>
@@ -29,7 +31,10 @@
                            <img src="~/imges/@item.ImgeName"class="w-25 rounded-circle"/>
 
                        </td>
+                      <td>@item.Description</td>
+                    <td>@item.Category?.Name</td>
                     <td>@item.SubCategory?.Name</td>
+                    <td>@item.HasAvailableStock</td>
                  
 
 

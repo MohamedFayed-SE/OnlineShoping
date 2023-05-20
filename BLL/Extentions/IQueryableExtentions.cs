@@ -17,8 +17,7 @@ namespace BLL.Extentions
         {
             
             int skip = Math.Max(pageSize * (page - 1), 0);
-            if (skip >= query.Count())
-                skip = 0;
+            
             return query.Skip(skip).Take(pageSize);
         }
        

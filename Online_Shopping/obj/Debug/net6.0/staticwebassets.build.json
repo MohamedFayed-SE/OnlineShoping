@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pM+I0i7T5IxgTLu1riMZD6bVNt+lpWM6EkbSQaIh41w=",
+  "Hash": "gZgxj5Rm7AlsK2CFwxiaUO/i5y03eiGcsKaRp8o7qAk=",
   "Source": "Online_Shopping",
   "BasePath": "_content/Online_Shopping",
   "Mode": "Default",
@@ -151,6 +151,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imges\\download (1).jpg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\imges\\download (2).jpg.jpg",
+      "SourceId": "Online_Shopping",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\",
+      "BasePath": "_content/Online_Shopping",
+      "RelativePath": "imges/download (2).jpg.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imges\\download (2).jpg.jpg"
     },
     {
       "Identity": "C:\\Users\\mohamed.fayed\\Desktop\\OnlineShoping\\Online_Shopping\\wwwroot\\imges\\download.jpg.jpg",

@@ -5,7 +5,11 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Online_Shopping.DTOs;
-/*using PagedList;
+/*
+  I didn't get The Point Of Grouped The Product sith Category And Sub Category With Pagination 
+  so i make the login in (product repo) 'if i understand right you want to know product in each category' but the question is if first 50 product have same category that 
+  mean the others catgory will not dispear so , i would better know the business better to 
+  make it clear 
 */
 namespace Online_Shopping.Controllers
 {
@@ -20,6 +24,7 @@ namespace Online_Shopping.Controllers
             _mapper = mapper;
 
         }
+        
         public async Task<IActionResult> Index()
         {
             var includesList = new List<string>()
@@ -50,7 +55,8 @@ namespace Online_Shopping.Controllers
                 s.Description,
                 s.ImgeName,
                 CategoryName=s.Category.Name,
-                subCategoryName=s.SubCategory.Name
+                subCategoryName=s.SubCategory.Name,
+                s.HasAvailableStock
             }
             );
 

@@ -9,8 +9,8 @@ function NextPage(listCount) {
    
 
     pagenumber++;
-    
-    if (pagenumber * 10 > listCount) {
+    console.log(pagenumber, listCount, "Next");
+    if ((pagenumber-1) * 10 > listCount) {
         pagenumber = Math.ceil(listCount / 10);
         return;
 
@@ -22,7 +22,7 @@ function NextPage(listCount) {
         url: `/Product/Pagination`,
         data: { PageNumber: pagenumber, PageSize: 10 },
         success: function (res) {
-            console.log(res);
+            console.log(res,"Next");
             res.forEach(item => {
                 $("#TableBody").append(`
 
@@ -35,10 +35,11 @@ function NextPage(listCount) {
                                            <img src="/imges/${item.imgeName}" class="w-25 rounded-circle"/>
 
                                        </td>
-                                      <td>${item.Description}</td>
+                                      <td>${item.description}</td>
                                        <td>${item.categoryName}</td>
                                     <td>${item.subCategoryName}</td>
-
+                                     <td>${item.hasAvailableStock}</td>
+                                   
 
 
                                 </tr>
@@ -84,10 +85,10 @@ function PreviousPage() {
                                            <img src="/imges/${item.imgeName}" class="w-25 rounded-circle"/>
 
                                        </td>
-                                      <td>${item.Description}</td>
+                                      <td>${item.description}</td>
                                        <td>${item.categoryName}</td>
                                     <td>${item.subCategoryName}</td>
-
+                                     <td>${item.hasAvailableStock}</td>
 
 
                                 </tr>

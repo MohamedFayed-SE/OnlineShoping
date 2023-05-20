@@ -5,7 +5,13 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+/*
+   there is Two Way to make the relation between Category And Sub category based on 
+Business  need if sub catgeory can have children then we will make slef join
+instead of sperate it in another table  and will make the realtion between  product and 
+category 
 
+ */
 namespace BAL.Models
 {
     public class Category
@@ -18,9 +24,9 @@ namespace BAL.Models
 
         public DateTime CreatedDate { get; set; }
 
-            /*        self joining 
-       /*public byte SubCategoryId { get; set; }
-        public Category   SubCategory { get; set; }
+      /* -----------self joining --------------------- 
+       public byte ParentId { get; set; }
+        public Category   ParentCategory { get; set; }
          
         public  ICollection<Category> SubCategories { get; set; }*/
         
